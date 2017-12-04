@@ -1,0 +1,34 @@
+colors:
+  brandColors:
+    - 'hsl(0,0%,100%)'
+    - 'hsl(0,0%,80%)'
+    - 'hsl(0,0%,60%)'
+    - 'hsl(0,0%,30%)'
+    - 'hsl(0,0%,20%)'
+name: Imjin War
+layout_spectrum: 0.5404031069483608
+typography_spectrum: 0.33593832212500274
+color:
+  brandStrength: 0.10179639863781631
+  lightness: 0.3910482774954289
+  saturation: 0.42488195677287877
+  rhythmicContrast: 0.711676656967029
+  brandColors:
+    - '#F3F9F7'
+    - '#C7C7C7'
+    - '#1D271E'
+    - '#A15E33'
+    - '#587D85'
+content: []
+title: 'Imjin War(임진왜란, 壬辰倭亂)'
+description: ''
+author:
+  name: A.I
+  email: a.i@acm.org
+purpose:
+  - type: contact
+    url: 'mailto:a.i@acm.org'
+    label: Contact me
+github: true
+analytics:
+  google: UA-110547943-1
