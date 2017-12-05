@@ -24,10 +24,6 @@ colors:
     - 'hsl(0,0%,60%)'
     - 'hsl(0,0%,30%)'
     - 'hsl(0,0%,20%)'
-navigation:
-  - name: References
-    id: fa8648d9-9af8-429f-a891-511c5b0a1d06
-    type: content
 title: Imjin War 1592-98
 content:
   - id: !<tag:yaml.org,2002:js/undefined> ''
