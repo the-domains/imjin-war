@@ -1,12 +1,3 @@
-colors:
-  brandColors:
-    - 'hsl(0,0%,100%)'
-    - 'hsl(0,0%,80%)'
-    - 'hsl(0,0%,60%)'
-    - 'hsl(0,0%,30%)'
-    - 'hsl(0,0%,20%)'
-name: Imjin War
-layout_spectrum: 0.5404031069483608
 typography_spectrum: 0.33593832212500274
 color:
   brandStrength: 0.10179639863781631
@@ -19,6 +10,25 @@ color:
     - '#1D271E'
     - '#A15E33'
     - '#587D85'
+layout_spectrum: 0.5404031069483608
+analytics:
+  google: UA-110547943-1
+author:
+  name: A.I
+  email: a.i@acm.org
+name: Imjin War
+colors:
+  brandColors:
+    - 'hsl(0,0%,100%)'
+    - 'hsl(0,0%,80%)'
+    - 'hsl(0,0%,60%)'
+    - 'hsl(0,0%,30%)'
+    - 'hsl(0,0%,20%)'
+navigation:
+  - name: References
+    id: fa8648d9-9af8-429f-a891-511c5b0a1d06
+    type: content
+title: Imjin War 1592-98
 content:
   - id: !<tag:yaml.org,2002:js/undefined> ''
     type: video
@@ -29,21 +39,18 @@ content:
       allowfullscreen></iframe>
     src: !<tag:yaml.org,2002:js/undefined> ''
     metadata:
+      datePublished: null
+      isBasedOnUrl: 'https://www.youtube.com/watch?v=w6bHeEDB6DE'
+      keywords:
+        - dancheong
+        - 단청
+      related: []
       author:
         - name: je Kwon
           url: 'https://www.youtube.com/user/kamalanote'
           avatar: {}
-      related: []
-      publisher:
-        url: 'https://www.youtube.com/'
-        name: YouTube
-        favicon: 'https://s.ytimg.com/yts/img/favicon-vfl8qSV2F.ico'
-        domain: www.youtube.com
-      keywords:
-        - dancheong
-        - 단청
-      description: Korean tradition crafts experience Dancheong (Ornamental Painting)
-      inLanguage: !<tag:yaml.org,2002:js/undefined> ''
+      '@context': 'http://schema.org'
+      title: Korean tradition crafts experience - Dancheong
       '@type': VideoObject
       app_links:
         - url: 'vnd.youtube://www.youtube.com/watch?v=w6bHeEDB6DE&feature=applinks'
@@ -82,24 +89,70 @@ content:
           package: '544007664'
           namespace: google
           type: ios
+      publisher:
+        url: 'https://www.youtube.com/'
+        name: YouTube
+        favicon: 'https://s.ytimg.com/yts/img/favicon-vfl8qSV2F.ico'
+        domain: www.youtube.com
+      description: Korean tradition crafts experience Dancheong (Ornamental Painting)
+    title: !<tag:yaml.org,2002:js/undefined> ''
+    caption: !<tag:yaml.org,2002:js/undefined> ''
+    text: !<tag:yaml.org,2002:js/undefined> ''
+  - id: !<tag:yaml.org,2002:js/undefined> ''
+    type: image
+    html: >-
+      <img
+      src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/a987be40-b795-4353-80ce-210d43e44664.gif">
+    src: >-
+      https://the-grid-user-content.s3-us-west-2.amazonaws.com/a987be40-b795-4353-80ce-210d43e44664.gif
+    metadata:
+      author: []
+      related: []
+      publisher:
+        url: 'https://the-grid-user-content.s3-us-west-2.amazonaws.com'
+        name: The-grid-user-content
+        favicon: null
+        domain: the-grid-user-content.s3-us-west-2.amazonaws.com
+      keywords: []
+      description: ''
+      app_links: []
       '@context': 'http://schema.org'
-      isBasedOnUrl: 'https://www.youtube.com/watch?v=w6bHeEDB6DE'
-      title: Korean tradition crafts experience - Dancheong
+      '@type': MediaObject
       datePublished: null
     title: !<tag:yaml.org,2002:js/undefined> ''
     caption: !<tag:yaml.org,2002:js/undefined> ''
     text: !<tag:yaml.org,2002:js/undefined> ''
-title: Imjin War 1592-98
+  - id: !<tag:yaml.org,2002:js/undefined> ''
+    type: image
+    html: >-
+      <img
+      src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/63ddad58-4098-4460-ad02-25e08cc58e71.jpg">
+    src: >-
+      https://the-grid-user-content.s3-us-west-2.amazonaws.com/63ddad58-4098-4460-ad02-25e08cc58e71.jpg
+    metadata:
+      author: []
+      related: []
+      publisher:
+        url: 'https://the-grid-user-content.s3-us-west-2.amazonaws.com'
+        name: The-grid-user-content
+        favicon: null
+        domain: the-grid-user-content.s3-us-west-2.amazonaws.com
+      keywords: []
+      description: ''
+      app_links: []
+      '@context': 'http://schema.org'
+      '@type': MediaObject
+      datePublished: null
+    title: !<tag:yaml.org,2002:js/undefined> ''
+    caption: !<tag:yaml.org,2002:js/undefined> ''
+    text: !<tag:yaml.org,2002:js/undefined> ''
 description: >-
   This project named Imjin War is a board game of the conflict on Korean
   peninsula  between Joseon, Japan and Ming dynasty.
-author:
-  name: A.I
-  email: a.i@acm.org
 purpose:
   - type: contact
     url: 'mailto:a.i@acm.org'
     label: Contact me
 github: true
-analytics:
-  google: UA-110547943-1
+content_rating:
+  adult: false
