@@ -58,7 +58,6 @@ content:
       description: >-
         작품명 : 정왜기공도병 제작년도 : 2017 제작기법 : 2D 디지털 애니메이션 작품크기 : 빔 프로젝터 (1080p Full
         HD) 작품길이 : 4분 43초, 반복재생 전시명 : 정유재란 1597 전시기간 : 2017.07.25. ~ 2017.10.22.
-      inLanguage: !<tag:yaml.org,2002:js/undefined> ''
       '@type': VideoObject
       app_links:
         - url: 'vnd.youtube://www.youtube.com/watch?v=kvkpTX0yjjs&feature=applinks'
@@ -105,8 +104,8 @@ content:
     caption: !<tag:yaml.org,2002:js/undefined> ''
     text: !<tag:yaml.org,2002:js/undefined> ''
 description: >-
-  This project named Imjin War is a board game of the conflict on Korean
-  peninsula  between Joseon, Japan and Ming dynasty.
+  This project site is for Imjin War, the conflict on Korean peninsula  between
+  Joseon, Japan and Ming dynasty.
 purpose:
   - type: contact
     url: 'mailto:a.i@acm.org'
