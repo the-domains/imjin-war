@@ -104,7 +104,7 @@ content:
     caption: !<tag:yaml.org,2002:js/undefined> ''
     text: !<tag:yaml.org,2002:js/undefined> ''
 description: >-
-  This site is for board game project "Imjin War", the conflict on Korean
+  This site is for the board game project "Imjin War", the conflict on Korean
   peninsula  between Joseon, Japan and Ming dynasty.
 purpose:
   - type: contact
